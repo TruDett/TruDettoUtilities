@@ -62,8 +62,8 @@ You must follow the [installation guide](https://www.atlanta-bot.fr/installation
 
 ## Links
 
-*   [Support Server](https://)
-*   [Discord](https://)
+*   [Support Server](https://discord.gg/Xxxq68DngY)
+*   [Discord](https://discord.gg/2wybmHBrED)
 *   [Twitter](https://twitter.com/tru_det)
 *   [Github](https://github.com/TruDett/TruDetto Utilities/)
 *   [Dashboard]()
