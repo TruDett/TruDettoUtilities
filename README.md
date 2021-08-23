@@ -16,18 +16,7 @@ Feel free to add a star ⭐ to the repository if you like the bot!
 
 ### Complete Bot
 
-TruDetto Utilities offers (non-exhaustive list):
-*   ✉️ Support for commands in direct messages
-*   🇫🇷 Support for translations (illimited languages)
-*   ⚙️ Guild configuration (prefix, ignored channels, etc...)
-*   😀 Commands made pleasant thanks to the many emojis
-*   🗳️ Support for Discordbots.org votes with rewards
-
-TruDetto Utilities also adds **a new mention** like @everyone and @here, the `@someone`, which allows you to pick a random member of the server!
-
-### Many commands
-
-TruDetto Utilities has a lot of features, with **7 main categories**:
+TruDetto Utilities offers a lot of features, with **7 main categories**:
 
 *   👩‍💼 **Administration**: `slowmode`, `welcome`, `addcommand`, `automod`, `backup` and **11** more!
 *   🚓 **Moderation**: `see-warns`, `setlogs`, `checkinvites`, `poll`, and **6** more!
@@ -36,6 +25,8 @@ TruDetto Utilities has a lot of features, with **7 main categories**:
 *   👻 **Fun**: `lmg`, `findwords`, `flip`, `lovecalc`, `random` and **6** more!
 *   🖨️ **General**: `minimize`, `setafk`, `translate`, `remindme`, `hastebin`, `fortnite`, `minecraft` and **10** more!
 *   🖼️ **Images**: `captcha`, `clyde`, `fire`, `rip`, `wanted`, `youtube-comment` and **21** more!
+
+TruDetto Utilities also adds **a new mention** like @everyone and @here, the `@someone`, which allows you to pick a random member of the server!
 
 ### A powerful Dashboard
 
@@ -55,18 +46,13 @@ If you don't want to edit the code of the bot, a permanent online version is ava
 
 [![Discord Bots](https://discordbots.org/api/widget/557445719892688897.svg)](https://discordbots.org/bot/557445719892688897)
 
-### Customized version
-
-If you want to edit the bot's code and host it on your machine, it's possible!  
-You must follow the [installation guide](https://www.atlanta-bot.fr/installation/) to properly install it! Don't worry, it's fast and simple if you follow the guide!
-
 ## Links
 
 *   [Support Server](https://discord.gg/Xxxq68DngY)
 *   [Discord](https://discord.gg/2wybmHBrED)
 *   [Twitter](https://twitter.com/tru_det)
 *   [Github](https://github.com/TruDett/TruDettoUtilities/)
-*   [Dashboard]()
+*   [Dashboard ( Coming Soon )]()
 
 ## License
 
