@@ -2,8 +2,8 @@
 
 # TruDettoUtilities
 
-[![](https://img.shields.io/discord/820644952659722301?logo=discord&colorB=00BFFF&label=TruDetto)](https://discord.gg/2wybmHBrED)
 [![](https://img.shields.io/discord/877631293192536144?logo=discord&colorB=00BFFF&label=TruDetto%20Utilities%20Support)](https://discord.gg/Xxxq68DngY)
+[![](https://img.shields.io/discord/820644952659722301?logo=discord&colorB=00BFFF&label=TruDetto)](https://discord.gg/2wybmHBrED)
 [![](https://img.shields.io/badge/discord.js-v13.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/paypal-donate-orange.svg)](https://www.paypal.com/paypalme/trudetto)
 
