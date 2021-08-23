@@ -1,17 +1,16 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Atlanta" src="https://i.goopics.net/lEENx.png">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="TruDettoUtilities" src="https://i.imgur.com/Vd8wsjl.png">  
 
-# Atlanta
+# TruDettoUtilities
 
-[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA&label=Atlanta%20Support)](https://discord.gg/Za9zxTH)
-[![](https://img.shields.io/discord/568120814776614924.svg?logo=discord&colorB=00BFFF&label=Atlanta%20Emojis)](https://emojis.atlanta-bot.fr)
+[![](https://img.shields.io/discord/820644952659722301?logo=discord&colorB=00BFFF&label=TruDetto)](https://discord.gg/2wybmHBrED)
+[![](https://img.shields.io/discord/877631293192536144?logo=discord&colorB=00BFFF&label=TruDetto%20Utilities%20Support)](https://discord.gg/Xxxq68DngY)
 [![](https://img.shields.io/badge/discord.js-v13.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
-[![](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/androz2091)
-[![](https://www.codefactor.io/repository/github/Androz2091/AtlantaBot/badge)](https://www.codefactor.io/repository/github/Androz2091/AtlantaBot)
+[![](https://img.shields.io/badge/paypal-donate-orange.svg)](https://www.paypal.com/paypalme/trudetto)
 
-> This bot is used by more than 130,000 Discord users and more than 800 servers.
+> This bot is used by more than 1500 Discord users and more than 10 servers.
 
-Atlanta is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html) by [Androz2091](https://github.com/Androz2091).  
-Feel free to add a star ⭐ to the repository to promote the project!
+TruDettoUtilities is a Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html) by [TruDet](https://github.com/trudett).
+Feel free to add a star ⭐ to the repository if you like the bot!
 
 ## Features
 
