@@ -35,7 +35,7 @@ TruDetto Utilities has a lot of features, with **7 main categories**:
 *   💰 **Economy**: `profile`, `work`, `badge`, `slots`, `balance`, `leaderboard`, and **6** more!
 *   👻 **Fun**: `lmg`, `findwords`, `flip`, `lovecalc`, `random` and **6** more!
 *   🖨️ **General**: `minimize`, `setafk`, `translate`, `remindme`, `hastebin`, `fortnite`, `minecraft` and **10** more!
-*   🖼️ **Images**: `captcha`, `clyde`, `fire`, 'rip', 'wanted', 'youtube-comment' and **21** more!
+*   🖼️ **Images**: `captcha`, `clyde`, `fire`, `rip`, `wanted`, `youtube-comment` and **21** more!
 
 ### A powerful Dashboard
 
