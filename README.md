@@ -45,3 +45,7 @@ You can directly **edit your configuration**, **manage your servers**, **view ra
 *   [Twitter](https://twitter.com/tru_det)
 *   [Github](https://github.com/TruDett/TruDettoUtilities/)
 *   [Dashboard ( Coming Soon )]()
+
+## Issues
+
+[Click here to report an issue regarding the bot!](https://github.com/TruDett/TruDettoUtilities/issues/new)
